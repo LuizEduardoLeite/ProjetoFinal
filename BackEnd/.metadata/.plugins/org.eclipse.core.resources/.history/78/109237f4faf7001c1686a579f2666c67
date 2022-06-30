@@ -1,0 +1,5 @@
+package SoulCode.Services.Security;
+
+public class JWTConfiguracao {
+
+}

@@ -1,0 +1,5 @@
+package SoulCode.Services.Servicos;
+
+public class DetalheUsuarioServiceImpl {
+
+}

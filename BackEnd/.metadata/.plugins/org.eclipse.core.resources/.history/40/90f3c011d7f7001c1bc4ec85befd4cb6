@@ -1,0 +1,5 @@
+package SoulCode.Services.Repository;
+
+public interface UsuarioJWTRepository {
+
+}
